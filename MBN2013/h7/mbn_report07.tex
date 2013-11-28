@@ -79,7 +79,7 @@ If however we use some expert knowledge for constraint-based learning (or from a
 \section{More Bayesian networks}
 As the dataset is continuous variables, we first discretize the data using \emph{Hartemink’s pairwise mutual information} method with 3 levels: LOW, AVG, HIGH. The directed network strengths are computed with hill-climbing algorithm, using two different methods: bootstrapping and creating random graphs. We generate 500 random networks with \emph{melancon} algorithm (with uniform probability over all possible graphs), and then we apply the hill-climbing to train the random networks. We use model averaging to build a network consisting of only significant arcs. Similar analysis is done with the bootstrapping algorithm.
 
-The results show that the models have the same BDE-score (the logarithm of the \emph{Bayesian Dirichlet equivalent score}), and the models have the same \emph{moral graphs}, but the models have different arch sets. The bootstrapped average network is in Figure \ref{fig:boot} and the hill-climbed average netwok is in Figure \ref{fig:start}. The differences have been hilighted. We can see that the conditional relationship between factors PIP2 and PIP3 is different between the models.
+The results show that the models have the same BDE-score (the logarithm of the \emph{Bayesian Dirichlet equivalent score}), and the models have the same \emph{moral graphs}, but the models have different arch sets. The bootstrapped average network is in Figure \ref{fig:boot} and the hill-climbed average network is in Figure \ref{fig:start}. The differences have been highlighted. We can see that the conditional relationship between factors PIP2 and PIP3 is different between the models.
 
 
 \begin{figure}[htp]

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.8)  28 NOV 2013 13:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.8)  28 NOV 2013 13:42
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -801,7 +801,7 @@ exlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on mbn_report07.pdf (4 pages, 70992 bytes).
+Output written on mbn_report07.pdf (4 pages, 71001 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
